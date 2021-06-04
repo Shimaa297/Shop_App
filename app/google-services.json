@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137563353794",
+    "project_id": "learn-app-19635",
+    "storage_bucket": "learn-app-19635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137563353794:android:08b764e16a791ea8ab415b",
+        "android_client_info": {
+          "package_name": "com.example.learn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137563353794-g3md7v7kq1i18rtf8ccs887v0vd6kqvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ssz8N0wKThZvwlhlJP5V4L9Zx3rtxcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137563353794-g3md7v7kq1i18rtf8ccs887v0vd6kqvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
